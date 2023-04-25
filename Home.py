@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas
 
-
+# sets the webpage layout to wide.
 st.set_page_config(layout="wide")
 
 st.title("The Best Company")
